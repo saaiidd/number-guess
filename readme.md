@@ -56,6 +56,3 @@ A fun and interactive number guessing game built with HTML, CSS, and JavaScript 
 
 Feel free to fork this project and submit pull requests with improvements!
 
-## License
-
-This project is open source and available under the [MIT License].
